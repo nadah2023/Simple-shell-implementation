@@ -1,5 +1,6 @@
 # Simple-shell-implementation
 The shell is a programme that uses the terminal to receive commands from the keyboard and transfers them to the operating system.
+To better understand you can read our documentation https://heyzine.com/flip-book/d98ef7ad83.html
 
 
 
