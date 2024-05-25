@@ -5,8 +5,10 @@ To better understand you can read our documentation https://heyzine.com/flip-boo
 
 
 ## GUI
-![image](https://github.com/nadah2023/Simple-shell-implementation/assets/122016066/68e8a51d-46ec-4b8a-8ca8-c024ff80d8e2)
+![WhatsApp Image 2024-05-25 at 13 43 40](https://github.com/nadah2023/Simple-shell-implementation/assets/122016066/271a95f6-9c3e-44c6-b753-1c96b25a25e0)
 
+
+![WhatsApp Image 2024-05-25 at 13 44 43](https://github.com/nadah2023/Simple-shell-implementation/assets/122016066/306695e0-c063-4c3a-b2a2-fd76030ef39b)
 
 
 ## The run line
